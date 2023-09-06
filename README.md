@@ -1,6 +1,6 @@
 ## Olá, sou James 👋
 
-Sou um programador back-end e pesquisador em machine learning, com um profundo interesse em aplicar algoritmos de aprendizado de máquina para resolver problemas do mundo real. Meu objetivo é construir soluções tecnológicas inovadoras que impulsionem a automação e melhorem a eficiência.
+Sou graduando em sistemas de informação na universidade federal do piauí, programador back-end e pesquisador em machine learning no laborátorio Pesquisas Avançadas em Análises de Dados da UFPI (paad), com um profundo interesse em aplicar algoritmos de aprendizado de máquina para resolver problemas do mundo real. Meu objetivo é construir soluções tecnológicas inovadoras que impulsionem a automação e melhorem a eficiência.
 
 ### Áreas de Interesse 🧠
 
