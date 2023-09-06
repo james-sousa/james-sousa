@@ -13,10 +13,6 @@ Sou um programador back-end e pesquisador em machine learning, com um profundo i
 - Python e C
 - Desenvolvimento de Aplicativos Web
 
-### Projetos Destacados 🚀
-
-- [Nome do Projeto 1]: Descreva brevemente o projeto, as tecnologias usadas e os resultados alcançados.
-- [Nome do Projeto 2]: Mais informações sobre outro projeto relevante.
 
 ### Educação 🎓
 
@@ -24,7 +20,7 @@ Sou um programador back-end e pesquisador em machine learning, com um profundo i
 
 ### Contato 📫
 
-Você pode entrar em contato comigo pelo e-mail jamescoding49@gmail@email.com ou seguir-me no LinkedIn https://www.linkedin.com/in/james-sousa- ou no instagram https://www.instagram.com/james.coding/, onde compartilho insights e informações sobre minhas paixões em programação e machine learning.
+Você pode entrar em contato comigo pelo e-mail jamescoding49@gmail.com ou seguir-me no LinkedIn https://www.linkedin.com/in/james-sousa- ou no instagram https://www.instagram.com/james.coding/, onde compartilho insights e informações sobre minhas paixões em programação e machine learning.
 
 Sinta-se à vontade para explorar meus repositórios no GitHub para ver meus projetos e contribuições. Estou sempre aberto a colaborações e oportunidades emocionantes de pesquisa e desenvolvimento. Vamos trabalhar juntos para criar um futuro mais inteligente e tecnológico! 🤖
 
@@ -34,7 +30,7 @@ Sinta-se à vontade para explorar meus repositórios no GitHub para ver meus pro
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=james-sousa&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+ 
  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
