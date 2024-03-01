@@ -6,9 +6,6 @@ Sou graduando em sistemas de informação na universidade federal do piauí, pro
 
 - Machine Learning e Inteligência Artificial
 - Desenvolvimento Back-end
-- Processamento de Linguagem Natural (NLP)
-- Visão Computacional
-- Ciência de Dados
 - Algoritmos e Estruturas de Dados
 - Python e C
 - Desenvolvimento de Aplicativos Web
