@@ -3,6 +3,7 @@
 Sou graduando em Sistemas de Informação na Universidade Federal do Piauí (UFPI), programador back-end e pesquisador na área de cibersegurança no laboratório Pesquisas Avançadas em Análises de Dados da UFPI (PAAD). Meu objetivo é aplicar técnicas avançadas de cibersegurança para desenvolver soluções tecnológicas que protejam sistemas e dados contra ameaças e melhoram a resiliência das infraestruturas digitais.
 
 Áreas de Interesse 🧠
+
 Cibersegurança
 Desenvolvimento Back-end
 Segurança de Aplicações Web
