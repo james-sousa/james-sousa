@@ -1,14 +1,14 @@
 ## Olá, sou James 👋
 
-Sou graduando em sistemas de informação na universidade federal do piauí, programador back-end e pesquisador em machine learning no laborátorio Pesquisas Avançadas em Análises de Dados da UFPI (paad), com um profundo interesse em aplicar algoritmos de aprendizado de máquina para resolver problemas do mundo real. Meu objetivo é construir soluções tecnológicas inovadoras que impulsionem a automação e melhorem a eficiência.
+Sou graduando em Sistemas de Informação na Universidade Federal do Piauí (UFPI), programador back-end e pesquisador na área de cibersegurança no laboratório Pesquisas Avançadas em Análises de Dados da UFPI (PAAD). Meu objetivo é aplicar técnicas avançadas de cibersegurança para desenvolver soluções tecnológicas que protejam sistemas e dados contra ameaças e melhoram a resiliência das infraestruturas digitais.
 
-### Áreas de Interesse 🧠
-
-- Machine Learning e Inteligência Artificial
-- Desenvolvimento Back-end
-- Algoritmos e Estruturas de Dados
-- Python e C
-- Desenvolvimento de Aplicativos Web
+Áreas de Interesse 🧠
+Cibersegurança
+Desenvolvimento Back-end
+Segurança de Aplicações Web
+Segurança de Redes
+Python
+Desenvolvimento de Aplicativos Web
 
 
 ### Educação 🎓
