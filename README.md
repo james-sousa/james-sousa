@@ -18,7 +18,7 @@ Desenvolvimento de Aplicativos Web
 
 ### Contato 📫
 
-Você pode entrar em contato comigo pelo e-mail jamescoding49@gmail.com ou seguir-me no LinkedIn https://www.linkedin.com/in/james-sousa- ou no instagram https://www.instagram.com/james.coding/, onde compartilho insights e informações sobre minhas paixões em programação e machine learning.
+Você pode entrar em contato comigo pelo e-mail jamessouzza340@gmail.com ou seguir-me no LinkedIn https://www.linkedin.com/in/james-sousa- ou no instagram https://www.instagram.com/james.coding/, onde compartilho insights e informações sobre minhas paixões em programação e machine learning.
 
 Sinta-se à vontade para explorar meus repositórios no GitHub para ver meus projetos e contribuições. Estou sempre aberto a colaborações e oportunidades emocionantes de pesquisa e desenvolvimento. Vamos trabalhar juntos para criar um futuro mais inteligente e tecnológico! 🤖
 
