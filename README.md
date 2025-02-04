@@ -4,11 +4,11 @@ Sou graduando em Sistemas de Informação na Universidade Federal do Piauí (UFP
 
 Áreas de Interesse 🧠
 
-Cibersegurança
-Desenvolvimento Back-end
-Segurança de Aplicações Web
-Segurança de Redes
-Python
+Cibersegurança,
+Desenvolvimento Back-end,
+Segurança de Aplicações Web,
+Segurança de Redes,
+Python,
 Desenvolvimento de Aplicativos Web
 
 
